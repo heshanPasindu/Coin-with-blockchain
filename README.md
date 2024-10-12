@@ -1,5 +1,7 @@
 🚀 Remix & Hardhat Project
+
 Smart Contract Development with Remix IDE & Hardhat 🛠️
+
 📖 Overview
 This repository houses smart contracts developed using Remix IDE and integrated with Hardhat for testing, deployment, and local blockchain development. Our goal is to build, test, and deploy decentralized applications efficiently while maintaining optimized gas costs and secure contract logic.
 
